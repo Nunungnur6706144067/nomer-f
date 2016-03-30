@@ -17,7 +17,6 @@ public class Jurnal1_c {
 	for(int i=1;i<=cd;i++){
             ab=bc;
             bc=hasil;
-            System.out.print(hasil+" ");
-            hasil=ab+bc;
+       
     }   
     }
